@@ -40,7 +40,7 @@ manifest:
   - file: figures/ul_gaussian_figure.eps
     comment: Figure S3b in paper (pdf/eps)
   - file: figures/ul-transforms.txt
-    comment: Table III in paper (LaTex code). Note: small error in paper in Baseline column, TE (H)/ETE (H) to be correct in arXiv. This is already corrected in journal submission.
+    comment: "Table III in paper (LaTex code). Note: small error in paper in Baseline column, TE (H)/ETE (H) to be correct in arXiv. This is already corrected in journal submission."
   - file: figures/computational-times.txt
     comment: Table S.II in paper (LaTex code)
 
@@ -54,3 +54,14 @@ paper:
     - name: Ari Ercole
       ORCID: 0000-0001-8350-8093
   reference: https://arxiv.org/abs/2104.00718
+
+codechecker:
+   name: Marcel Stimberg
+   ORCID: 0000-0002-2648-4790
+ 
+report: https://doi.org/10.5281/zenodo.4720843
+summary: |
+  The authors provided all material and documented the process well, the check was therefore straightforward. Due to long computation times, only a subset of the results could be checked. Reproducing the results in the repository was successful, with non-significant numerical discrepancies. However, a small number of minor differences with the results in the arXiv preprint merit clarification.
+repository: https://github.com/codecheckers/causality-review
+check_time: "2021-04-27T18:00:00+02:00"
+certificate: 2021-001
