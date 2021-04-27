@@ -1,0 +1,36 @@
+causality-review-code/misc_ci.py:729: RuntimeWarning: Mean of empty slice
+  percentiles = np.nanpercentile(np.nanmean(z, axis = 0), [5, 95])
+causality-review-code/misc_ci.py:735: RuntimeWarning: Mean of empty slice
+  percentiles = np.nanpercentile(np.nanmean(z, axis = 0), [5, 95])
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+causality-review-code/misc_ci.py:820: RuntimeWarning: Mean of empty slice
+  hu_means = np.nanmean(hu_results, axis = 0).reshape(hu_reshape, order = 'F')
+/mnt/data/anaconda2/envs/causality_test/lib/python3.8/site-packages/numpy/lib/nanfunctions.py:1664: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+causality-review-code/misc_ci.py:852: RuntimeWarning: Mean of empty slice
+  hb_means = np.nanmean(hb_results, axis = 0)
+causality-review-code/misc_ci.py:929: RuntimeWarning: Mean of empty slice
+  ul_means = np.nanmean(ul_results, axis = 0).reshape(n_lambda, 2 * n_inds, 2)
+/mnt/data/anaconda2/envs/causality_test/lib/python3.8/site-packages/numpy/lib/nanfunctions.py:1664: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+causality-review-code/misc_ci.py:972: RuntimeWarning: Mean of empty slice
+  ul_means = np.nanmean(ul_results, axis = 0).reshape(n_lambda, 2 * n_inds, 2)
+/mnt/data/anaconda2/envs/causality_test/lib/python3.8/site-packages/numpy/lib/nanfunctions.py:1664: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+causality-review-code/misc_ci.py:979: RuntimeWarning: Mean of empty slice
+  ult_means = np.nanmean(ult_results, axis = 0)
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+The PostScript backend does not support transparency; partially transparent artists will be rendered opaque.
+/mnt/data/anaconda2/envs/causality_test/lib/python3.8/site-packages/numpy/lib/nanfunctions.py:1664: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
