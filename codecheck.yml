@@ -67,8 +67,8 @@ paper:
   reference: https://arxiv.org/abs/2104.00718
 
 codechecker:
-   name: Marcel Stimberg
-   ORCID: 0000-0002-2648-4790
+  name: Marcel Stimberg
+  ORCID: 0000-0002-2648-4790
  
 report: https://doi.org/10.5281/zenodo.4720843
 summary: |
